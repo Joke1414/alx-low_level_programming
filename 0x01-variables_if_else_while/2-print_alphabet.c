@@ -1,14 +1,18 @@
 #include <stdio.h>
+#include <ctype.h>
+/**
+ * main - prints the lower case of the alphabet
+ *
+ * Return: 0, if succesful
+ */
+int main(void)
+{
+	char lc;
 
-int main() {
-   char letter = 'a';
-
-   while (letter <= 'z') {
-      printf("%c ", letter);
-      letter++;
-   }
-
-   printf("\n");
-   return 0;
+	for (lc = 'a' ; lc <= 'z' ; lc++)
+	{
+		putchar(lc);
+	}
+	putchar('\n');
+	return (0);
 }
-
