@@ -5,5 +5,5 @@
 0. Multiple mains
 Mandatory
 In most projects, we often give you only one main file to test with. For example, this main file is a test for a postitive_or_negative() function similar to the one you worked with in an earlier C project:
-Like, comment, subscribe
-0 > 972?This program prints the largest of three integers.
+Like, comment, subscrib
+This program prints the largest of three integers.
