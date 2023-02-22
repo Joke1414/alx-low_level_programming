@@ -1,10 +1,6 @@
-#c - Debugging
+# c debugging
 
-# TASKS
-
-0. Multiple mains
-Mandatory
-In most projects, we often give you only one main file to test with. For example, this main file is a test for a postitive_or_negative() function similar to the one you worked with in an earlier C project:
-Like, comment, subscrib
+mutiple main
+Like, comment, subscribe
 This program prints the largest number of three integers.
 leap year
